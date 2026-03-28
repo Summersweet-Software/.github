@@ -1,5 +1,5 @@
 # Summersweet Software
-Summersweet Software is a software workers-cooperative based in the state of Maryland. We are dedicated to creating quality software and libraries for consumer and developer use.
+Summersweet Software is a workers-cooperative based in the state of Maryland. We are dedicated to creating quality software and libraries for consumer and developer use.
 
 ## Primary language
 The primary language we use so far is Python3. It is planned to soon use HTML, CSS, Typescript, and many more languages.
