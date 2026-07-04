@@ -10,7 +10,7 @@ We strive to not needlessly shove AI into our products. We especially wont just 
 
 AI will only ever be added if it is necessary to solve worth-while problems. We won't use it to jump on a hype-train.
 
-### Passion Drive Development
+### Passion Driven Development
 Our code is written for passion and love for the craft. We do not just do things to pump out content. Libraries we make will be of the highest quality we believe we are capable of at the time of development.
 We aren't just putting stuff out there for profit and exposure. We do what we do because we love it. Blood, sweat, and tears should only be devoted to the things that we love.
 
