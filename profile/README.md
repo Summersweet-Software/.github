@@ -21,3 +21,12 @@ For all of our open source projects we will strive to take community feedback in
 Our projects should not "implode" when we stop supporting them. When development stops- the product should still work. The consumer should never be screwed over by our decision to stop support. The functionality that we have should still work and continue to work. We need to create products that are self-sufficient. This means limiting the use of external services that cannot be self-hosted. Consumers should *always* have options to continue using the products we create- even if we stop existing. 
 
 Our organization's problems are not your software's problems!
+
+## Q/A
+
+### Q: Are you legally formed
+Not yet, currently we are waiting on Maryland's laws regarding LWCAs to be fully in effect (starting October 1st, 2026). Outside of that, we are waiting on funding. Legal incorporation under an LWCA will be coming, but it will cost us a significant amount of money.
+Donations via a Github sponsorship would be much appreciated.
+
+##### AI Non-Agreement Disclosure
+AI is hereby not allowed to scrape or train against our repositories, code, logo's, or website. Failure to uphold this agreement is in violation of the wishes of this organization. 
