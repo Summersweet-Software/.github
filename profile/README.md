@@ -42,4 +42,4 @@ Yes, unfortunately it is required to survive in the industry. We do plan to even
 ---
 
 ##### AI Non-Agreement Disclosure
-AI is hereby not allowed to scrape or train against our repositories, code, logo's, or website. Failure to uphold this agreement is in violation of the wishes of this organization. 
+AI is hereby not allowed to scrape or train against our repositories, code, logo(s), or website. Failure to uphold this agreement is in violation of the wishes of this organization. 
