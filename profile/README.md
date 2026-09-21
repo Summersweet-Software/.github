@@ -22,11 +22,24 @@ Our projects should not "implode" when we stop supporting them. When development
 
 Our organization's problems are not your software's problems!
 
+---
+
 ## Q/A
 
 ### Q: Are you legally formed
 Not yet, currently we are waiting on Maryland's laws regarding LWCAs to be fully in effect (starting October 1st, 2026). Outside of that, we are waiting on funding. Legal incorporation under an LWCA will be coming, but it will cost us a significant amount of money.
 Donations via a Github sponsorship would be much appreciated.
+
+### Q: Are You Hiring
+Currently no, we do not have a legal basis on which to hire. We also would prefer not hiring any hours or salary positions until we have the funds to do so. Membership may be inquired about via our email: `Business@summersweet.software`.
+
+### Q: If you are not legally incorporated- do you follow your cooperative agreement/bylaws
+Yes, we plan to continue to internally use our drafted cooperative agreement even before legal incorporation.
+
+### Q: Will you make closed source software
+Yes, unfortunately it is required to survive in the industry. We do plan to eventually make our closed-source projects open-source, but for the time being they remain closed source until we can sell them.
+
+---
 
 ##### AI Non-Agreement Disclosure
 AI is hereby not allowed to scrape or train against our repositories, code, logo's, or website. Failure to uphold this agreement is in violation of the wishes of this organization. 
